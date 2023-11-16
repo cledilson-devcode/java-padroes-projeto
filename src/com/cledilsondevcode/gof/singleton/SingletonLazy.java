@@ -4,8 +4,10 @@ package com.cledilsondevcode.gof.singleton;
  * SingletonLazy representa uma implementação preguiçosa do padrão Singleton,
  * adiando a criação da instância até que seja realmente necessária.
  *
- * @author cledilson-devcode
+ * Nota: Este padrão garante que apenas uma instância da classe será criada durante toda a execução do programa
  *
+ * @author cledilson-devcode
+ * @version 1.0
  */
 
 public class SingletonLazy {

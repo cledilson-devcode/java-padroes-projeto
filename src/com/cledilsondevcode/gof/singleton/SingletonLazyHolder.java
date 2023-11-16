@@ -1,3 +1,5 @@
+package com.cledilsondevcode.gof.singleton;
+
 /**
  * A classe SingletonLazyHolder implementa o padrão de design Singleton utilizando a técnica
  * Lazy Holder para garantir a criação preguiçosa (lazy instantiation) da instância única.
